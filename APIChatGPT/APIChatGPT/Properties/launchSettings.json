@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "ClimaAPI": {
+    "APIChatGPT": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

@@ -1,4 +1,4 @@
-using ClimaAPI.Controllers;
+using APIChatGPT.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 

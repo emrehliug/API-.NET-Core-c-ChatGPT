@@ -1,4 +1,4 @@
-﻿namespace ClimaAPI.Models.Request
+﻿namespace APIChatGPT.Models.Request
 {
     public class Root
     {

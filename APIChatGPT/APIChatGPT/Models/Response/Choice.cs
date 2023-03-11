@@ -1,6 +1,6 @@
-﻿using ClimaAPI.Models.Request;
+﻿using APIChatGPT.Models.Request;
 
-namespace ClimaAPI.Models.Response
+namespace APIChatGPT.Models.Response
 {
     public class Choice
     {

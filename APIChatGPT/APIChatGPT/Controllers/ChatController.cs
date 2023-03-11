@@ -1,11 +1,11 @@
-﻿using ClimaAPI.Models.Request;
-using ClimaAPI.Models.Response;
+﻿using APIChatGPT.Models.Request;
+using APIChatGPT.Models.Response;
 using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 
-namespace ClimaAPI.Controllers
+namespace APIChatGPT.Controllers
 {
     [ApiController]
     [Route("api/chatGPT")]

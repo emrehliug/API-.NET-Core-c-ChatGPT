@@ -1,4 +1,4 @@
-﻿namespace ClimaAPI.Models.Response
+﻿namespace APIChatGPT.Models.Response
 {
     public class Usage
     {
