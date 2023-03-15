@@ -12,3 +12,10 @@ Como mostra imagem abaixo!
 
 ![image](https://user-images.githubusercontent.com/44777996/224375043-ad094ded-684b-41b5-86b2-4414972a314e.png)
 
+## Ferramentas utilizadas:
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="80" />
+</div>
