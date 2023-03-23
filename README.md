@@ -14,7 +14,7 @@ Como mostra imagem abaixo!
 
 ![image](https://user-images.githubusercontent.com/44777996/224375043-ad094ded-684b-41b5-86b2-4414972a314e.png)
 
-## Ferramentas utilizadas:
+## Tecnologias utilizadas:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" /> 
